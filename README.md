@@ -1,1 +1,2 @@
 # hello-world
+Hello! My name is Addison Stevens! This is my first time in this coding program and this is really confusing but also fun! I like to play video games, watch animated shows, code, etc. I live in Evansville, IN and I also live in Slaughters, KY. I have two brorthers, one that goes to high school and the other that goes to middle school. This isn't my first time coding actually, I did coding when I was a Senior in High School and I also coded my first eight weeks in college. I'm looking forward to do more coding in the future! 
